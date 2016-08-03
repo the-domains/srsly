@@ -6,9 +6,9 @@ color:
   saturation: 0.283482248429209
   rhythmicContrast: 0.2885974270757288
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
 name: SRSLY!
